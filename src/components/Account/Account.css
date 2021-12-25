@@ -1,0 +1,32 @@
+.account-container{
+    width: 300px;
+    height: 56px;
+    margin-top: 60px;
+    display: flex;
+}
+
+.account-image {
+    min-width: 60px;
+    min-height: 60px;
+}
+.account-name {
+    margin: 5px;
+    font-size: 13px;
+    font-weight: bold;
+    margin-left: 20px;
+}
+
+.account-username{
+    margin: 5px;
+    font-size: 13px;
+    margin-left: 20px;
+}
+.account-switch {
+    text-align: right;
+    margin-left: 150px;
+    position: absolute;
+    margin-top: -30px;
+    color: rgb(74, 137, 255);
+    font-weight: bold;
+    font-size: 13px;
+}

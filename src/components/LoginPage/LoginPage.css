@@ -1,0 +1,125 @@
+.login-main {
+    display: flex;
+}
+.login-image{
+    width: 454px;
+    margin-top: 33px;
+}
+.logo-insta{
+    width: 205px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+}
+.login-form {
+    margin-top: 70px;
+    width: 350px;
+    border: 1px solid rgba(226,226,226);
+    background-color: white;
+    justify-content: center;
+    padding-bottom: 30px;
+}
+.signin-text{
+    width: 258px;
+    height: 36px;
+    margin-left: 40px;
+    margin-top: 10px;
+    border: 1px solid rgba(226,226,226);
+    border-radius: 5px;
+    background-color: rgb(243, 243, 243)
+}
+.signin-password{
+    width: 258px;
+    height: 36px;
+    margin-left: 40px;
+    margin-top: 10px;
+    border: 1px solid rgba(226,226,226);
+    border-radius: 5px;
+    background-color: rgb(243, 243, 243)
+
+}
+
+.signin-button{
+    width: 266px;
+    margin-left: 40px;
+    margin-top: 10px;
+    background-color: rgb(178, 223, 252);
+    height: 30px;
+    border-radius: 4px;
+    border: 1px solid rgb(178, 223, 252);
+    color: white;
+    cursor: pointer;
+}
+.signin-button:hover{
+    background-color: rgb(0, 149, 246);
+    border: 1px solid rgb(0, 149, 246);
+}
+
+.login-alt {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+.login-line{
+    width: 100px;
+    height: 0px;
+    margin-top: 15px;
+    border: 0.5px solid rgba(226,226,226);
+}
+.login-or {
+    margin: 10px;
+    font-size: 12px;
+    color: rgb(158, 158, 158);
+    font-weight: bold;
+}
+.login-facebook{
+    color: rgb(56, 81, 133);
+    font-weight: bold;
+    font-size: 14px;
+    margin-left: 95px;
+}
+.login-forgot {
+    font-size: 12px;
+    margin-top: 15px;
+    margin-left: 125px;
+}
+.fb-logo {
+    width: 15px;
+    margin-right: 10px;
+}
+.loginPage__signup {
+    margin-top: 20px;
+}
+
+.signup {
+    height: 56px;
+    width: 350px;
+    background-color: white;
+    border: 1px solid rgba(226,226,226);
+    text-align: center;
+    margin-top: 10px;
+}
+.signup-option {
+margin-top: 15px;
+text-align: center;   
+cursor: pointer;
+}
+.get-app{
+    text-align: center;
+    margin-top: 20px;
+}
+.login-app {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.download-ios{
+    width: 136px;
+    margin-right: 6px;
+}
+.download-android{
+    width: 136px;
+}
+

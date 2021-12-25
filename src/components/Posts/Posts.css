@@ -1,0 +1,23 @@
+.post-uploadicon {
+    height: 80px;
+    width: 80px;
+    margin-right: 90px ;
+    cursor: pointer;
+    margin-top: 15px;
+}
+.post-line {
+    margin-right: 100px;
+    height: 0px;
+    width: 220px;
+    border: 1px solid #dbdbdb;
+    margin-top: 40px;
+}
+.post-container {
+    text-align: center;
+    margin: 0px 10px 0px -20px;
+    display :flex ;
+    justify-content: center ;
+}   
+.file-upload > input {
+    display: none;
+}
